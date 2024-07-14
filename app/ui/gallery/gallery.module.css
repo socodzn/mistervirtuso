@@ -1,0 +1,23 @@
+.gallery {
+    display: flex;
+    flex-direction: column; /* Arrange images vertically */
+    align-items: center; /* Center horizontally */
+    gap: 20px; /* Spacing between images */
+    background-color: #EFFBEF;
+  }
+  
+  .galleryImage {
+    max-width: 100%; /* Ensure images don't exceed container width */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+.season { 
+    position: 'absolute';
+    top: '20%';
+    left: '50%';
+    transform: 'translate(-50%, -50%)';
+    color: '#000';
+    font-size: '80px';
+    font-family: 'Libre Caslon Display, serif';
+    padding-top: 40px;
+}

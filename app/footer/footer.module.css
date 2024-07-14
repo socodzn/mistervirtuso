@@ -1,0 +1,12 @@
+/* Footer.css */
+.footerContainer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center; /* Center horizontally */
+    padding: 20px; /* Add some padding for spacing */
+    background-color: #EFFBEF;
+    font-family: 'Libre Caslon Display, serif'
+  }
+  
